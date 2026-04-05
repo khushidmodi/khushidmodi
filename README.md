@@ -1,16 +1,30 @@
-## Hi there 👋
+```bash
+> whoami
+Khushi Modi
 
-<!--
-**khushidmodi/khushidmodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> current_work
+Building AI-driven internal tools at Southern Company
 
-Here are some ideas to get you started:
+> focus
+- Applied AI in real workflows
+- End-to-end system design
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### awards
+
+#### 🥇 1st Place – University of Alabama Innovate - Prototype Innovation
+PHI de-identification system for HL7 data with cross-record consistency  
++ Built a secure UI for patient record search
++ Prompt sponsored and judged by HCA Healthcare
+
+#### 🥉 3rd Place – Institute of Data & Analytics Hackathon (Culverhouse College of Business) 
+Python-based assembly line optimization system  
++ Reduced costs through ML + greedy algorithms  
++ Improved component alignment, inventory, and reorder strategy  
++ Presented to Mercedes-Benz USA  
+
+
+### skills
+<p> 
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,go,js,ts,html,css,mysql,mongodb,react,dotnet,aws,azure,git,pytorch,tensorflow" /> 
+</p>
