@@ -28,3 +28,9 @@ Python-based assembly line optimization system
 <p> 
   <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,go,js,ts,html,css,mysql,mongodb,react,dotnet,aws,azure,git,pytorch,tensorflow" /> 
 </p>
+
+
+### lets connect!
+linkedin: https://www.linkedin.com/in/khushidmodi  
+email: kmodi@crimson.ua.edu
+
